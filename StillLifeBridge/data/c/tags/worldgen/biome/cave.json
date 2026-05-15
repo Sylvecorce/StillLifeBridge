@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    "still_life:barren_caves", "still_life:frozen_caves", "still_life:glowing_caves", "still_life:haunted_depths", "still_life:infested_tunnels", "still_life:mushroom_caves", "still_life:scorched_caves"
+  ]
+}

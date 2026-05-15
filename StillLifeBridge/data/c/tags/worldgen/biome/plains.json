@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    "still_life:alpine_plains", "still_life:flooded_grasslands", "still_life:mixed_forest_steppe", "still_life:warm_temperate_clearings", "still_life:mediterranean_steppe", "still_life:wooded_mediterranean_steppe"
+  ]
+}

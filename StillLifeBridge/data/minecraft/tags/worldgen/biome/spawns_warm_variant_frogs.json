@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_hot",
+    "still_life:mangrove_marsh",
+    "still_life:tropical_wetlands"
+  ]
+}
