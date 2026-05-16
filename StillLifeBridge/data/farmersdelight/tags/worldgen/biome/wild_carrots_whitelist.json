@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "#c:plains",
-    "still_life:temperate_meadow"
+    "still_life:warm_temperate_clearings",
+    "still_life:alpine_plains"
   ]
 }
