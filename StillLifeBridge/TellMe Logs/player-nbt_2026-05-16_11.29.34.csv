@@ -1,0 +1,551 @@
+Entity: Kami_Sy [registry name: minecraft:player] (entityId: 149)
+Entity class: net.minecraft.class_3222
+
+
+[TAG_Compound (61 values)] 
+{
+    [TAG_Float] "AbsorptionAmount": 0.0
+    [TAG_Short] "Air": 300
+    [TAG_List (6 values of type TAG_Compound)] "Attributes"
+    [
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.0
+            [TAG_String] "Name": "reach-entity-attributes:reach"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.0
+            [TAG_String] "Name": "stepheightentityattribute:stepheight"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.10000000149011612
+            [TAG_String] "Name": "minecraft:generic.movement_speed"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.08
+            [TAG_String] "Name": "porting_lib:entity_gravity"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 0.0
+            [TAG_String] "Name": "porting_lib:step_height_addition"
+        }
+        [TAG_Compound (2 values)] 
+        {
+            [TAG_Double] "Base": 20.0
+            [TAG_String] "Name": "minecraft:generic.max_health"
+        }
+    ]
+    [TAG_Compound (1 values)] "BalmData"
+    {
+        [TAG_Compound (1 values)] "WaystonesData"
+        {
+            [TAG_List (0 values of type ?)] "Waystones"
+            [
+            ]
+        }
+    }
+    [TAG_Compound (1 values)] "Brain"
+    {
+        [TAG_Compound (0 values)] "memories"
+        {
+        }
+    }
+    [TAG_Int] "DataVersion": 3465
+    [TAG_Short] "DeathTime": 0
+    [TAG_String] "Dimension": "minecraft:overworld"
+    [TAG_List (0 values of type ?)] "EnderItems"
+    [
+    ]
+    [TAG_Float] "FallDistance": 0.0
+    [TAG_Byte] "FallFlying": 0
+    [TAG_Short] "Fire": -20
+    [TAG_List (0 values of type ?)] "FrozenLibSavedItemCooldowns"
+    [
+    ]
+    [TAG_Int] "GoldenAirSupply": 0
+    [TAG_Int] "HaliteTicks": 0
+    [TAG_Byte] "HasGraveCompass": 0
+    [TAG_Byte] "HasThirst": 1
+    [TAG_Float] "Health": 20.0
+    [TAG_Int] "HurtByTimestamp": 0
+    [TAG_Short] "HurtTime": 0
+    [TAG_List (0 values of type ?)] "Inventory"
+    [
+    ]
+    [TAG_Byte] "Invulnerable": 0
+    [TAG_Byte] "IsTranslucent": 0
+    [TAG_List (0 values of type ?)] "LeashedByEntities"
+    [
+    ]
+    [TAG_List (0 values of type ?)] "LeashingEntities"
+    [
+    ]
+    [TAG_List (3 values of type TAG_Double)] "Motion"
+    [
+        [TAG_Double] : 0.0
+        [TAG_Double] : -0.0784000015258789
+        [TAG_Double] : 0.0
+    ]
+    [TAG_Byte] "OnGround": 1
+    [TAG_Int] "PortalCooldown": 0
+    [TAG_List (3 values of type TAG_Double)] "Pos"
+    [
+        [TAG_Double] : -803.3456134645156
+        [TAG_Double] : 61.0
+        [TAG_Double] : 854.3000000119209
+    ]
+    [TAG_List (2 values of type TAG_Float)] "Rotation"
+    [
+        [TAG_Float] : -74.55826
+        [TAG_Float] : 63.449726
+    ]
+    [TAG_Int] "Score": 0
+    [TAG_Int] "SelectedItemSlot": 0
+    [TAG_Short] "SleepTimer": 0
+    [TAG_List (4 values of type TAG_String)] "Tags"
+    [
+        [TAG_String] : "in.eid_0"
+        [TAG_String] : "in.eid_2"
+        [TAG_String] : "in.eid_3"
+        [TAG_String] : "fetzisasiandeco.firstjoin"
+    ]
+    [TAG_Float] "ThirstExhaustionLevel": 0.0
+    [TAG_Int] "ThirstLevel": 20
+    [TAG_Int] "ThirstTickTimer": 0
+    [TAG_Compound (1 values)] "TrackedData"
+    {
+        [TAG_Compound (4 values)] "viaromana:player_data"
+        {
+            [TAG_Byte] "ChartingPath": 0
+            [TAG_Long] "LastNodePos": 0
+            [TAG_Byte] "ReceivedTutorial": 0
+            [TAG_Byte] "SeenLinkedSignToast": 0
+        }
+    }
+    [TAG_Int_Array (4 entries)] "UUID"
+    [
+          0: 0x7BB115A9 (2075202985)
+          1: 0x713A4953 (1899645267)
+          2: 0xADB0CD1E (-1380922082)
+          3: 0x460FA886 (1175431302)
+    ]
+    [TAG_Int] "XpLevel": 0
+    [TAG_Float] "XpP": 0.0
+    [TAG_Int] "XpSeed": 0
+    [TAG_Int] "XpTotal": 0
+    [TAG_Compound (7 values)] "abilities"
+    {
+        [TAG_Float] "flySpeed": 0.05
+        [TAG_Byte] "flying": 0
+        [TAG_Byte] "instabuild": 1
+        [TAG_Byte] "invulnerable": 1
+        [TAG_Byte] "mayBuild": 1
+        [TAG_Byte] "mayfly": 1
+        [TAG_Float] "walkSpeed": 0.1
+    }
+    [TAG_Int] "brewery.drunkenness": 0
+    [TAG_Int] "brewery.immunity": 3
+    [TAG_Compound (7 values)] "cardinal_components"
+    {
+        [TAG_Compound (3 values)] "artifacts:swim_data"
+        {
+            [TAG_Byte] "HasTouchedWater": 0
+            [TAG_Byte] "ShouldSwim": 0
+            [TAG_Int] "SwimTime": 0
+        }
+        [TAG_Compound (1 values)] "comforts:sleep_tracker"
+        {
+            [TAG_Compound (3 values)] "Data"
+            {
+                [TAG_Long] "sleepTime": 0
+                [TAG_Long] "tiredTime": 0
+                [TAG_Long] "wakeTime": 0
+            }
+        }
+        [TAG_Compound (1 values)] "lodestone:player"
+        {
+            [TAG_Byte] "firstTimeJoin": 1
+        }
+        [TAG_Compound (1 values)] "thermoo:temperature"
+        {
+            [TAG_Int] "value": 0
+        }
+        [TAG_Compound (1 values)] "thermoo:wetness"
+        {
+            [TAG_Int] "value": 0
+        }
+        [TAG_Compound (7 values)] "trinkets:trinkets"
+        {
+            [TAG_Compound (2 values)] "charm"
+            {
+                [TAG_Compound (2 values)] "charm"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 2
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (3 values)] "tag"
+                            {
+                                [TAG_Int] "Damage": 0
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+                [TAG_Compound (2 values)] "spell_book"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 2
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (3 values)] "tag"
+                            {
+                                [TAG_Int] "Damage": 0
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+            }
+            [TAG_Compound (3 values)] "chest"
+            {
+                [TAG_Compound (2 values)] "back"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 2
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (3 values)] "tag"
+                            {
+                                [TAG_Int] "Damage": 0
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+                [TAG_Compound (2 values)] "cape"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 2
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (3 values)] "tag"
+                            {
+                                [TAG_Int] "Damage": 0
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+                [TAG_Compound (2 values)] "necklace"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 2
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (3 values)] "tag"
+                            {
+                                [TAG_Int] "Damage": 0
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+            }
+            [TAG_Compound (1 values)] "feet"
+            {
+                [TAG_Compound (2 values)] "shoes"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 2
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (3 values)] "tag"
+                            {
+                                [TAG_Int] "Damage": 0
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+            }
+            [TAG_Compound (2 values)] "hand"
+            {
+                [TAG_Compound (2 values)] "glove"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 2
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (3 values)] "tag"
+                            {
+                                [TAG_Int] "Damage": 0
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+                [TAG_Compound (2 values)] "ring"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 2
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (3 values)] "tag"
+                            {
+                                [TAG_Int] "Damage": 0
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+            }
+            [TAG_Compound (1 values)] "head"
+            {
+                [TAG_Compound (2 values)] "hat"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 2
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (3 values)] "tag"
+                            {
+                                [TAG_Int] "Damage": 0
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+            }
+            [TAG_Compound (3 values)] "legs"
+            {
+                [TAG_Compound (2 values)] "belt"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 2
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (3 values)] "tag"
+                            {
+                                [TAG_Int] "Damage": 0
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+                [TAG_Compound (2 values)] "key"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 2
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (3 values)] "tag"
+                            {
+                                [TAG_Int] "Damage": 0
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+                [TAG_Compound (2 values)] "quiver"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 2
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (3 values)] "tag"
+                            {
+                                [TAG_Int] "Damage": 0
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+            }
+            [TAG_Compound (2 values)] "offhand"
+            {
+                [TAG_Compound (2 values)] "glove"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 2
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (3 values)] "tag"
+                            {
+                                [TAG_Int] "Damage": 0
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+                [TAG_Compound (2 values)] "ring"
+                {
+                    [TAG_List (1 values of type TAG_Compound)] "Items"
+                    [
+                        [TAG_Compound (3 values)] 
+                        {
+                            [TAG_Byte] "Count": 2
+                            [TAG_String] "id": "minecraft:air"
+                            [TAG_Compound (3 values)] "tag"
+                            {
+                                [TAG_Int] "Damage": 0
+                                [TAG_Byte] "glide": 0
+                                [TAG_Byte] "struck": 0
+                            }
+                        }
+                    ]
+                    [TAG_Compound (0 values)] "Metadata"
+                    {
+                    }
+                }
+            }
+        }
+        [TAG_Compound (2 values)] "vc_gliders:player_data"
+        {
+            [TAG_Byte] "is_gliding": 0
+            [TAG_Int] "lightningTimer": 0
+        }
+    }
+    [TAG_Float] "foodExhaustionLevel": 0.0
+    [TAG_Int] "foodLevel": 20
+    [TAG_Float] "foodSaturationLevel": 5.0
+    [TAG_Int] "foodTickTimer": 0
+    [TAG_Int] "frozenSpottingIconTicksToCheck": 18
+    [TAG_Int] "haHurtTime": 0
+    [TAG_Int] "playerGameType": 1
+    [TAG_Compound (12 values)] "recipeBook"
+    {
+        [TAG_Byte] "isBlastingFurnaceFilteringCraftable": 0
+        [TAG_Byte] "isBlastingFurnaceGuiOpen": 0
+        [TAG_Byte] "isFarmersDelightCookingFilteringCraftable": 0
+        [TAG_Byte] "isFarmersDelightCookingGuiOpen": 0
+        [TAG_Byte] "isFilteringCraftable": 0
+        [TAG_Byte] "isFurnaceFilteringCraftable": 0
+        [TAG_Byte] "isFurnaceGuiOpen": 0
+        [TAG_Byte] "isGuiOpen": 0
+        [TAG_Byte] "isSmokerFilteringCraftable": 0
+        [TAG_Byte] "isSmokerGuiOpen": 0
+        [TAG_List (2 values of type TAG_String)] "recipes"
+        [
+            [TAG_String] : "minecraft:crafting_table"
+            [TAG_String] : "grapplemod:grappling_hook"
+        ]
+        [TAG_List (2 values of type TAG_String)] "toBeDisplayed"
+        [
+            [TAG_String] : "minecraft:crafting_table"
+            [TAG_String] : "grapplemod:grappling_hook"
+        ]
+    }
+    [TAG_Byte] "seenCredits": 0
+    [TAG_Int] "simple_copper_pipes_DataVersion": 2
+    [TAG_Compound (3 values)] "spiceOfFabric_history"
+    {
+        [TAG_List (0 values of type ?)] "carrotHistory"
+        [
+        ]
+        [TAG_List (0 values of type ?)] "dictionary"
+        [
+        ]
+        [TAG_List (0 values of type ?)] "history"
+        [
+        ]
+    }
+    [TAG_Int] "spiceOfFabric_version": 1
+    [TAG_Compound (6 values)] "treechop:chopSettings"
+    {
+        [TAG_Byte] "chopInCreativeMode": 0
+        [TAG_Byte] "choppingEnabled": 1
+        [TAG_Byte] "fellingEnabled": 1
+        [TAG_Byte] "isSynced": 1
+        [TAG_String] "sneakBehavior": "INVERT_CHOPPING"
+        [TAG_Byte] "treesMustHaveLeaves": 1
+    }
+    [TAG_Compound (3 values)] "warden_spawn_tracker"
+    {
+        [TAG_Int] "cooldown_ticks": 0
+        [TAG_Int] "ticks_since_last_warning": 10997
+        [TAG_Int] "warning_level": 0
+    }
+}
