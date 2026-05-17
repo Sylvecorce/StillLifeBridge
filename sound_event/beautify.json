@@ -1,0 +1,10 @@
+[
+  "beautify:block.blinds_close",
+  "beautify:block.blinds_open",
+  "beautify:block.bookstack_break",
+  "beautify:block.bookstack_fall",
+  "beautify:block.bookstack_hit",
+  "beautify:block.bookstack_next",
+  "beautify:block.bookstack_place",
+  "beautify:block.bookstack_step"
+]
