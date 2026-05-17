@@ -1,0 +1,21 @@
+[
+  "friendsandfoes:copper_golem_button_pos",
+  "friendsandfoes:copper_golem_is_oxidized",
+  "friendsandfoes:copper_golem_press_button_cooldown",
+  "friendsandfoes:copper_golem_spin_head_cooldown",
+  "friendsandfoes:crab_burrow_pos",
+  "friendsandfoes:crab_has_egg",
+  "friendsandfoes:crab_is_dancing",
+  "friendsandfoes:crab_wave_cooldown",
+  "friendsandfoes:glare_dark_spot_locating_cooldown",
+  "friendsandfoes:glare_dark_spot_pos",
+  "friendsandfoes:glare_glow_berries_pos",
+  "friendsandfoes:glare_is_idle",
+  "friendsandfoes:glare_is_tamed",
+  "friendsandfoes:glare_locating_glow_berries_cooldown",
+  "friendsandfoes:rascal_nod_cooldown",
+  "friendsandfoes:tuff_golem_sleep_cooldown",
+  "friendsandfoes:wildfire_barrage_attack_cooldown",
+  "friendsandfoes:wildfire_shockwave_attack_cooldown",
+  "friendsandfoes:wildfire_summon_blazes_cooldown"
+]
