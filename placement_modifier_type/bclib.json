@@ -1,0 +1,16 @@
+[
+  "bclib:all",
+  "bclib:debug",
+  "bclib:extend",
+  "bclib:for_all",
+  "bclib:in_biome",
+  "bclib:is",
+  "bclib:is_basin",
+  "bclib:is_next_to",
+  "bclib:noise_filter",
+  "bclib:offset",
+  "bclib:on_every_layer",
+  "bclib:solid_in_dir",
+  "bclib:stencil",
+  "bclib:under_every_layer"
+]
