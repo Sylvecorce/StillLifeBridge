@@ -1,0 +1,23 @@
+[
+  "more_rpg_classes:air_fuse_modifier",
+  "more_rpg_classes:arcane_fuse_modifier",
+  "more_rpg_classes:armor_piercing",
+  "more_rpg_classes:bleeding_chance",
+  "more_rpg_classes:burning_chance",
+  "more_rpg_classes:damage_reflect_modifier",
+  "more_rpg_classes:damage_taken",
+  "more_rpg_classes:earth_fuse_modifier",
+  "more_rpg_classes:fire_fuse_modifier",
+  "more_rpg_classes:freeze_chance",
+  "more_rpg_classes:frost_fuse_modifier",
+  "more_rpg_classes:healing_fuse_modifier",
+  "more_rpg_classes:healing_taken",
+  "more_rpg_classes:lifesteal_modifier",
+  "more_rpg_classes:poison_chance",
+  "more_rpg_classes:rage_modifier",
+  "more_rpg_classes:spell_vampire",
+  "more_rpg_classes:stagger_chance",
+  "more_rpg_classes:stun_chance",
+  "more_rpg_classes:tenacity",
+  "more_rpg_classes:water_fuse_modifier"
+]
