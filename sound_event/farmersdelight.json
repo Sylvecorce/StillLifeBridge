@@ -1,0 +1,15 @@
+[
+  "farmersdelight:block.cabinet.close",
+  "farmersdelight:block.cabinet.open",
+  "farmersdelight:block.cooking_pot.boil",
+  "farmersdelight:block.cooking_pot.boil_soup",
+  "farmersdelight:block.cutting_board.knife",
+  "farmersdelight:block.skillet.add_food",
+  "farmersdelight:block.skillet.sizzle",
+  "farmersdelight:block.stove.crackle",
+  "farmersdelight:block.tomato_bush.pick_tomatoes",
+  "farmersdelight:entity.rotten_tomato.hit",
+  "farmersdelight:entity.rotten_tomato.throw",
+  "farmersdelight:item.skillet.attack.strong",
+  "farmersdelight:item.skillet.attack.weak"
+]

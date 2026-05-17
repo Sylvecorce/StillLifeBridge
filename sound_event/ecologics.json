@@ -1,0 +1,21 @@
+[
+  "ecologics:camel_ambient",
+  "ecologics:camel_angry",
+  "ecologics:camel_chest",
+  "ecologics:camel_death",
+  "ecologics:camel_eat",
+  "ecologics:camel_hurt",
+  "ecologics:camel_step",
+  "ecologics:coconut_crab_ambient",
+  "ecologics:coconut_crab_death",
+  "ecologics:coconut_crab_hurt",
+  "ecologics:coconut_smash",
+  "ecologics:music_disc_coconut",
+  "ecologics:penguin_ambient",
+  "ecologics:penguin_death",
+  "ecologics:penguin_hurt",
+  "ecologics:squirrel_ambient",
+  "ecologics:squirrel_death",
+  "ecologics:squirrel_hurt",
+  "ecologics:thin_ice_crack"
+]

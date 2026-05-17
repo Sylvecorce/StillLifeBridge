@@ -1,0 +1,20 @@
+[
+  "spell_engine:bind_spell",
+  "spell_engine:generic_arcane_casting",
+  "spell_engine:generic_arcane_release",
+  "spell_engine:generic_fire_casting",
+  "spell_engine:generic_fire_release",
+  "spell_engine:generic_frost_casting",
+  "spell_engine:generic_frost_impact",
+  "spell_engine:generic_frost_release",
+  "spell_engine:generic_healing_casting",
+  "spell_engine:generic_healing_impact_1",
+  "spell_engine:generic_healing_impact_2",
+  "spell_engine:generic_healing_release",
+  "spell_engine:generic_lightning_casting",
+  "spell_engine:generic_lightning_release",
+  "spell_engine:generic_soul_casting",
+  "spell_engine:generic_soul_release",
+  "spell_engine:generic_wind_charging",
+  "spell_engine:spellbook_equip"
+]

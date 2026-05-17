@@ -1,0 +1,5 @@
+[
+  "niftycarts:entity.cart.attach",
+  "niftycarts:entity.cart.detach",
+  "niftycarts:entity.cart.place"
+]

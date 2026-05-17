@@ -1,0 +1,8 @@
+[
+  "mcwwindows:bars_close",
+  "mcwwindows:bars_open",
+  "mcwwindows:blinds_close",
+  "mcwwindows:blinds_open",
+  "mcwwindows:window_close",
+  "mcwwindows:window_open"
+]

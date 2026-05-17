@@ -1,0 +1,6 @@
+[
+  "simple_copper_pipes:block.copper_pipe.item_in",
+  "simple_copper_pipes:block.copper_pipe.item_out",
+  "simple_copper_pipes:block.copper_pipe.launch",
+  "simple_copper_pipes:block.copper_pipe.turn"
+]
