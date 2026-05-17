@@ -1,0 +1,8 @@
+[
+  "meadow:bench/start_pool",
+  "meadow:chalet/start_pool",
+  "meadow:chapel/start_pool",
+  "meadow:logging_camp/start_pool",
+  "meadow:monument/start_pool",
+  "meadow:observation_post/start_pool"
+]
