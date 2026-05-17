@@ -1,0 +1,15 @@
+[
+  "spell_power:air",
+  "spell_power:arcane",
+  "spell_power:critical_chance",
+  "spell_power:critical_damage",
+  "spell_power:earth",
+  "spell_power:fire",
+  "spell_power:frost",
+  "spell_power:haste",
+  "spell_power:healing",
+  "spell_power:lightning",
+  "spell_power:resistance.generic",
+  "spell_power:soul",
+  "spell_power:water"
+]
