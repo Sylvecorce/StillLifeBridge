@@ -1,0 +1,13 @@
+[
+  "powah:cable",
+  "powah:discharger",
+  "powah:ender_cell",
+  "powah:energy_cell",
+  "powah:energy_hopper",
+  "powah:furnator",
+  "powah:magmator",
+  "powah:player_transmitter",
+  "powah:reactor",
+  "powah:solar",
+  "powah:thermo"
+]
