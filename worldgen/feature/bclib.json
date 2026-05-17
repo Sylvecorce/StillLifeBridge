@@ -1,0 +1,8 @@
+[
+  "bclib:condition",
+  "bclib:mark_postprocessing",
+  "bclib:pillar",
+  "bclib:place_block",
+  "bclib:sequence",
+  "bclib:template"
+]

@@ -1,0 +1,5 @@
+[
+  "bclib:rough_noise_condition",
+  "bclib:threshold_condition",
+  "bclib:volume_threshold_condition"
+]
