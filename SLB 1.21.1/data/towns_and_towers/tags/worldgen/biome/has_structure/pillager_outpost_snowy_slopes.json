@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "still_life:arctic_glacier",
+        "still_life:barren_peaks",
+        "still_life:extreme_barren_peaks",
+        "still_life:snowy_barren_peaks",
+        "still_life:snowy_peaks",
+        "still_life:volcanic_peaks"
+    ]
+}

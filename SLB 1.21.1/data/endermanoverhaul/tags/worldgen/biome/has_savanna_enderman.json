@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "still_life:dry_savanna",
+        "still_life:humid_savanna",
+        "still_life:moist_savanna",
+        "still_life:outback",
+        "still_life:savanna"
+    ]
+}

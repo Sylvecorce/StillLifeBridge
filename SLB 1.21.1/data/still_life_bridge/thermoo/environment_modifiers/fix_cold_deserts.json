@@ -1,0 +1,10 @@
+{
+    "type": "thermoo:biome",
+    "order": 100,
+    "biomes": "#still_life_bridge:fix_cold_deserts",
+    "temperature_attribute_modifier": {
+        "name": "still_life_bridge:fix_cold_deserts_temp",
+        "amount": -0.8,
+        "operation": "addition"
+    }
+}

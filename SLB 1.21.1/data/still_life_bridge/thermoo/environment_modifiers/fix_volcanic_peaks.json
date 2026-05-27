@@ -1,0 +1,10 @@
+{
+    "type": "thermoo:biome",
+    "order": 100,
+    "biomes": "#still_life_bridge:fix_volcanic_peaks",
+    "temperature_attribute_modifier": {
+        "name": "still_life_bridge:fix_volcanic_peaks_temp",
+        "amount": 1.5,
+        "operation": "addition"
+    }
+}
