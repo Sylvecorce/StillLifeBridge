@@ -1,16 +1,9 @@
 {
     "replace": false,
     "values": [
-        "still_life:arctic_deep_ocean",
-        "still_life:arctic_shallow_ocean",
-        "still_life:cold_deep_ocean",
-        "still_life:cold_shallow_ocean",
         "still_life:coral_reef",
-        "still_life:dead_sea",
         "still_life:subtropical_deep_ocean",
         "still_life:subtropical_shallow_ocean",
-        "still_life:temperate_deep_ocean",
-        "still_life:temperate_shallow_ocean",
         "still_life:tropical_deep_ocean",
         "still_life:tropical_shallow_ocean",
         "still_life:warm_deep_ocean",
