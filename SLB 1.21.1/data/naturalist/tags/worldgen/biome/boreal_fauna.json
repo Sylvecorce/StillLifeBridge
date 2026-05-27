@@ -1,0 +1,28 @@
+{
+    "replace": false,
+    "values": [
+        "still_life:arctic_desert",
+        "still_life:arctic_desert_basin",
+        "still_life:arctic_tundra",
+        "still_life:arctic_wetlands",
+        "still_life:barren_arctic_desert",
+        "still_life:barren_tundra",
+        "still_life:boreal_alpine_tundra",
+        "still_life:cold_desert",
+        "still_life:cold_semi_desert",
+        "still_life:cold_taiga",
+        "still_life:cold_taiga_clearings",
+        "still_life:dry_boreal_forest",
+        "still_life:dry_cold_steppe",
+        "still_life:evergreen_taiga",
+        "still_life:frozen_marsh",
+        "still_life:ice_sheets",
+        "still_life:larch_woodlands",
+        "still_life:lush_tundra",
+        "still_life:mixed_boreal_forest",
+        "still_life:moist_boreal_forest",
+        "still_life:snowy_boreal_alpine_tundra",
+        "still_life:snowy_tundra",
+        "still_life:wooded_tundra"
+    ]
+}

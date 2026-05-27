@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "still_life:cold_steppe",
+        "still_life:dry_steppe",
+        "still_life:grass_steppe",
+        "still_life:plains",
+        "still_life:shrub_steppe"
+    ]
+}
