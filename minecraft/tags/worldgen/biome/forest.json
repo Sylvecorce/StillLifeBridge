@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        "still_life:birch_forest",
+        "still_life:dark_forest",
+        "still_life:old_growth_birch_forest",
+        "still_life:old_growth_pine_forest",
+        "still_life:old_growth_spruce_forest",
+        "still_life:old_growth_temperate_forest",
+        "still_life:pine_forest",
+        "still_life:pine_woods",
+        "still_life:temperate_forest",
+        "still_life:temperate_mixed_forest",
+        "still_life:warm_temperate_clearings",
+        "still_life:warm_temperate_woodlands"
+    ]
+}

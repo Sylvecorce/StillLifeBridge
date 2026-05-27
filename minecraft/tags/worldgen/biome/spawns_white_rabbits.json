@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    "still_life:arctic_tundra", "still_life:barren_arctic_desert", "still_life:barren_tundra", "still_life:snowy_tundra", "still_life:cold_taiga", "still_life:arctic_beach", "still_life:cold_tundra_beach"
+  ]
+}

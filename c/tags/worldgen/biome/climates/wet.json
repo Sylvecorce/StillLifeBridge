@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+        "still_life:bog",
+        "still_life:dry_savanna",
+        "still_life:fen",
+        "still_life:humid_savanna",
+        "still_life:lush_swamp",
+        "still_life:mangrove_swamp",
+        "still_life:marsh",
+        "still_life:moist_savanna",
+        "still_life:outback",
+        "still_life:savanna",
+        "still_life:temperate_marsh",
+        "still_life:temperate_swamp",
+        "still_life:tropical_dry_forest",
+        "still_life:tropical_highlands",
+        "still_life:tropical_rainforest",
+        "still_life:tropical_seasonal_forest"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "still_life:temperate_swamp",
+    "still_life:mediterranean_swamp",
+    "still_life:bog",
+    "still_life:fen",
+    "still_life:mire",
+    "still_life:mangrove_marsh",
+    "still_life:tropical_wetlands",
+    "still_life:desert_wetlands"
+  ]
+}
