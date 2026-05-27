@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        "still_life:arctic_river",
+        "still_life:boreal_river",
+        "still_life:desert_river",
+        "still_life:frozen_river",
+        "still_life:glacier_river",
+        "still_life:mountain_river",
+        "still_life:savanna_river",
+        "still_life:steppe_river",
+        "still_life:temperate_river",
+        "still_life:tropical_rainforest_river",
+        "still_life:tundra_river",
+        "still_life:warm_temperate_river"
+    ]
+}

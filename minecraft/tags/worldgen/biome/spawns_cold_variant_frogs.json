@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_cold",
+    "still_life:arctic_wetlands"
+  ]
+}

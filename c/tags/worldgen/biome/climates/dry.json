@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+        "still_life:arid_desert",
+        "still_life:desert_basin",
+        "still_life:dry_savanna",
+        "still_life:humid_savanna",
+        "still_life:moist_savanna",
+        "still_life:outback",
+        "still_life:sand_dunes",
+        "still_life:savanna",
+        "still_life:semiarid_desert"
+    ]
+}
