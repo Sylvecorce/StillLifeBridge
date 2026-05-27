@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        "still_life:bog",
+        "still_life:fen",
+        "still_life:lush_swamp",
+        "still_life:mangrove_swamp",
+        "still_life:marsh",
+        "still_life:temperate_marsh",
+        "still_life:temperate_swamp"
+    ]
+}

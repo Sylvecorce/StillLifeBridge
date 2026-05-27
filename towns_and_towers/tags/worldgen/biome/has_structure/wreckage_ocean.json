@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        "still_life:coral_reef",
+        "still_life:subtropical_deep_ocean",
+        "still_life:subtropical_shallow_ocean",
+        "still_life:tropical_deep_ocean",
+        "still_life:tropical_shallow_ocean",
+        "still_life:warm_deep_ocean",
+        "still_life:warm_shallow_ocean"
+    ]
+}
