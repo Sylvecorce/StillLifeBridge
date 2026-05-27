@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "values": [
+        "still_life:arctic_wetlands",
+        "still_life:bog",
+        "still_life:desert_wetlands",
+        "still_life:estuary",
+        "still_life:fen",
+        "still_life:flooded_grasslands",
+        "still_life:frozen_marsh",
+        "still_life:lush_swamp",
+        "still_life:mangrove_marsh",
+        "still_life:mangrove_swamp",
+        "still_life:marsh",
+        "still_life:mire",
+        "still_life:temperate_marsh",
+        "still_life:temperate_swamp",
+        "still_life:tropical_wetlands"
+    ]
+}

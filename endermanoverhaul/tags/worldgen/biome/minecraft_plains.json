@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        "still_life:alpine_plains",
+        "still_life:arid_beach",
+        "still_life:grass_steppe",
+        "still_life:mediterranean_beach",
+        "still_life:plains",
+        "still_life:temperate_beach",
+        "still_life:tropical_beach"
+    ]
+}

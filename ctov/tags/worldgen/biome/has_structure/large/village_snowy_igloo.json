@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        "still_life:arctic_desert",
+        "still_life:arctic_desert_basin",
+        "still_life:arctic_tundra",
+        "still_life:barren_tundra",
+        "still_life:ice_sheets",
+        "still_life:lush_tundra",
+        "still_life:snowy_boreal_alpine_tundra",
+        "still_life:snowy_tundra"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        "still_life:arctic_desert",
+        "still_life:arctic_desert_basin",
+        "still_life:arctic_glacier",
+        "still_life:arctic_tundra",
+        "still_life:barren_peaks",
+        "still_life:barren_tundra",
+        "still_life:extreme_barren_peaks",
+        "still_life:ice_sheets",
+        "still_life:snowy_barren_peaks",
+        "still_life:snowy_peaks",
+        "still_life:snowy_tundra",
+        "still_life:volcanic_peaks"
+    ]
+}

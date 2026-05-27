@@ -1,0 +1,25 @@
+{
+    "replace": false,
+    "values": [
+        "still_life:alpine_heathlands",
+        "still_life:alpine_plains",
+        "still_life:alpine_tundra",
+        "still_life:arctic_glacier",
+        "still_life:arid_highlands",
+        "still_life:barren_peaks",
+        "still_life:cold_barren_highlands",
+        "still_life:dry_bushland",
+        "still_life:dry_continental_forest",
+        "still_life:dry_tropical_highlands",
+        "still_life:extreme_barren_peaks",
+        "still_life:glacial_basin",
+        "still_life:mixed_continental_forest",
+        "still_life:moist_continental_forest",
+        "still_life:snowy_barren_peaks",
+        "still_life:snowy_peaks",
+        "still_life:taiga_highlands",
+        "still_life:volcanic_peaks",
+        "still_life:wooded_highlands",
+        "still_life:xeric_shrubland"
+    ]
+}
