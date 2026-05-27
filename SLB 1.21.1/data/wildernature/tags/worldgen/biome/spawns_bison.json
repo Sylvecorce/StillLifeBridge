@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#c:plains",
+    "still_life:cold_steppe",
+    "still_life:shrub_steppe"
+  ]
+}

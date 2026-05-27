@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "still_life:arctic_tundra",
+    "still_life:snowy_tundra",
+    "still_life:lush_tundra",
+    "still_life:cold_taiga"
+  ]
+}
