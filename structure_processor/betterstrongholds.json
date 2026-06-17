@@ -1,0 +1,15 @@
+[
+  "betterstrongholds:air_processor",
+  "betterstrongholds:armorstand_processor",
+  "betterstrongholds:banner_processor",
+  "betterstrongholds:cobweb_processor",
+  "betterstrongholds:end_portal_frame_processor",
+  "betterstrongholds:itemframe_processor",
+  "betterstrongholds:lantern_processor",
+  "betterstrongholds:leg_processor",
+  "betterstrongholds:ore_processor",
+  "betterstrongholds:rare_block_processor",
+  "betterstrongholds:redstone_processor",
+  "betterstrongholds:torch_processor",
+  "betterstrongholds:waterlogged_processor"
+]

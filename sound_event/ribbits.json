@@ -1,0 +1,12 @@
+[
+  "ribbits:entity.ribbit.ambient",
+  "ribbits:entity.ribbit.death",
+  "ribbits:entity.ribbit.hurt",
+  "ribbits:entity.ribbit.magic",
+  "ribbits:entity.ribbit.step",
+  "ribbits:music.ribbit.bass",
+  "ribbits:music.ribbit.bongo",
+  "ribbits:music.ribbit.flute",
+  "ribbits:music.ribbit.guitar",
+  "ribbits:music.ribbit.maraca"
+]

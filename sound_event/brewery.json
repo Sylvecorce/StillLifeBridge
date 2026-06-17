@@ -1,0 +1,17 @@
+[
+  "brewery:beer_elemental_ambient",
+  "brewery:beer_elemental_attack",
+  "brewery:beer_elemental_death",
+  "brewery:beer_elemental_hurt",
+  "brewery:breath",
+  "brewery:brewstation_ambient",
+  "brewery:brewstation_kettle",
+  "brewery:brewstation_oven",
+  "brewery:brewstation_process_failed",
+  "brewery:brewstation_timer_loop",
+  "brewery:brewstation_whistle",
+  "brewery:cabinet_close",
+  "brewery:cabinet_open",
+  "brewery:drawer_close",
+  "brewery:drawer_open"
+]

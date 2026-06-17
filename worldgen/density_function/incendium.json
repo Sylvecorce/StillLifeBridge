@@ -1,0 +1,20 @@
+[
+  "incendium:climate/continentalness",
+  "incendium:climate/depth",
+  "incendium:climate/erosion",
+  "incendium:climate/factor",
+  "incendium:climate/humidity",
+  "incendium:climate/purity",
+  "incendium:climate/temperature",
+  "incendium:climate/weirdness",
+  "incendium:final_density",
+  "incendium:huge_tunnel",
+  "incendium:math/base_3d_noise",
+  "incendium:math/pillars",
+  "incendium:math/sloped_cheese",
+  "incendium:swiss_cheese",
+  "incendium:tendril/tendrils",
+  "incendium:tunnels",
+  "incendium:web1",
+  "incendium:web2"
+]

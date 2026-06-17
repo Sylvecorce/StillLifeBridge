@@ -1,0 +1,23 @@
+[
+  "crittersandcompanions:entity.bite_attack",
+  "crittersandcompanions:entity.bubble_pop",
+  "crittersandcompanions:entity.dragonfly.ambient",
+  "crittersandcompanions:entity.ferret.ambient",
+  "crittersandcompanions:entity.ferret.death",
+  "crittersandcompanions:entity.ferret.hurt",
+  "crittersandcompanions:entity.leaf_insect.death",
+  "crittersandcompanions:entity.leaf_insect.hurt",
+  "crittersandcompanions:entity.otter.ambient",
+  "crittersandcompanions:entity.otter.clam_break",
+  "crittersandcompanions:entity.otter.clam_break_land",
+  "crittersandcompanions:entity.otter.death",
+  "crittersandcompanions:entity.otter.eat",
+  "crittersandcompanions:entity.otter.hurt",
+  "crittersandcompanions:entity.otter.swim",
+  "crittersandcompanions:entity.red_panda.ambient",
+  "crittersandcompanions:entity.red_panda.death",
+  "crittersandcompanions:entity.red_panda.hurt",
+  "crittersandcompanions:entity.sea_bunny.death",
+  "crittersandcompanions:entity.sea_bunny.hurt",
+  "crittersandcompanions:entity.shima_enaga.ambient"
+]

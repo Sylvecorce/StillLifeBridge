@@ -1,0 +1,12 @@
+[
+  "niftycarts:animal_cart_pull_cm",
+  "niftycarts:hand_cart_pull_cm",
+  "niftycarts:plow_pull_cm",
+  "niftycarts:reaper_pull_cm",
+  "niftycarts:ride_cart_cm",
+  "niftycarts:seed_drill_pull_cm",
+  "niftycarts:steer_animal_cart_cm",
+  "niftycarts:steer_reaper_cm",
+  "niftycarts:supply_cart_pull_cm",
+  "niftycarts:wagon_pull_cm"
+]
